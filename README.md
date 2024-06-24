@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20341
-Fork on GitHub6211
 <h1 align="center">Hi 👋, I'm Sunil V</h1>
 <h3 align="center">A passionate fullstack developer and cyber security analyst</h3>
 
